@@ -1,6 +1,8 @@
 # landing-page
-landing page: project 02 for TheOdinProject
-this is the first project that makes use of CSS, having just finished the flexbox lessons, this landing page will hopefully be laid out nicely
+Landing Page: This project was Project 02 for TheOdinProject.
+This is my first project that makes use of CSS. There is no functionality in the website, I am just displaying my design skills here! 
+
+[**Live preview**](https://safran2k.github.io/landing-page/index.html)
 
 CREDIT FOR PHOTOS----
 
